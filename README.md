@@ -1,8 +1,8 @@
-<!----------------------------------- Heading Section ------------------------------------>
+ <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
     Hi
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-    I'm Mohit Sehrawat
+    I'm Arjun Singh
     <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
 </h1>
 
@@ -15,7 +15,7 @@
 </h3>
 
 <h3>
-    <i>- Currently working at Masai School as an Instructional Associate</i>
+    <i>- I Have a Youtube Channel <a href = 'https://www.youtube.com/channel/UCDqe5Z2RFTudpDgJ_nizZ_Q'>Link</a> </i>
 </h3>
 <br>
 
@@ -24,10 +24,10 @@
 <!----------------------------------- Profile View Section ------------------------------------>
 
 <p align="left">
-    <a href="https://github.com/m-sehrawat">
+    <a href="https://github.com/ArjunSinghBhakuni">
         <img src="https://komarev.com/ghpvc/?username=m-sehrawat&label=Profile%20views&color=0e75b6&style=flat" alt="m-sehrawat" />
     </a>
-    <a href="https://github.com/m-sehrawat?tab=followers">
+    <a href="https://github.com/ArjunSinghBhakuni?tab=followers">
         <img src="https://img.shields.io/github/followers/m-sehrawat?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
@@ -64,7 +64,7 @@
 
 <!----------------------------------- Project Section ------------------------------------>
 
-<h2><i>My top projects</i></h2>
+<!-- <h2><i>My top projects</i></h2>
 
 
 <p align="left">
@@ -93,7 +93,7 @@
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adidas Clone&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="Adidas-Clone" />
     </a>
 </p>
-<br>
+<br> -->
 
 
 
@@ -103,16 +103,16 @@
 
 
 <p align="left">
-    <a href="https://linkedin.com/in/m-sehrawat">
+    <a href="https://www.linkedin.com/in/arjun-singh-366476194/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/m-sehrawat" />
     </a>
-    <a href="https://twitter.com/MohitSehrawatt">
+    <a href="https://twitter.com/ArjunBhakuni3">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/MohitSehrawatt" />
     </a>
     <a href="https://mohit-portfolio.vercel.app/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://mohit-portfolio.vercel.app/" />
     </a>
-    <a title="mohitsehrawat000@gmail.com" href="mailto:mohitsehrawat000@gmail.com">
+    <a title="arjunbhakuni23@gmail.com" href="arjunbhakuni23@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mohitsehrawat000@gmail.com" />
     </a>
 </p>
@@ -122,13 +122,13 @@
 
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 
-<h2><i>My GitHub Stats</i></h2>
+<!-- <h2><i>My GitHub Stats</i></h2>
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-sehrawat&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="m-sehrawat" height="139" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-sehrawat&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="m-sehrawat" height="139" />
 </p>
-<br>
+<br> -->
 
 
 
@@ -138,29 +138,24 @@
 
 
 <p>
-    <a href="https://github.com/m-sehrawat/Nike-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Nike-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    <a href="https://github.com/ArjunSinghBhakuni/Mytheresa-clone-website">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArjunSinghBhakuni&repo=Mytheresa-clone-website&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
     </a>
-    <a href="https://github.com/m-sehrawat/Mini-Store">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Mini-Store&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    <a href="https://github.com/ArjunSinghBhakuni/react-cart-app">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArjunSinghBhakuni&repo=react-cart-app&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
     </a>
-    <a href="https://github.com/m-sehrawat/Weather-App">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Weather-App&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    <a href="https://github.com/ArjunSinghBhakuni/tictacktoeGame">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArjunSinghBhakuni&repo=tictacktoeGame&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
     </a>
-    <a href="https://github.com/m-sehrawat/Translation-App">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Translation-App&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    <a href="https://github.com/ArjunSinghBhakuni/increament-timer-u4-w2-d2">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArjunSinghBhakuni&repo=increament-timer-u4-w2-d2&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
     </a>
-     <a href="https://github.com/m-sehrawat/Facebook-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Facebook-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+     <a href="https://github.com/ArjunSinghBhakuni/cherry-clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArjunSinghBhakuni&repo=cherry-clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
     </a>
-    <a href="https://github.com/m-sehrawat/Lybrate-Website-Clone-Version-2.0">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Lybrate-Website-Clone-Version-2.0&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    <a href="https://github.com/ArjunSinghBhakuni/Food-App-Mini---Project-Unit---3-">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArjunSinghBhakuni&repo=Food-App-Mini---Project-Unit---3-&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
     </a>
-    <a href="https://github.com/m-sehrawat/Food-Store">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Food-Store&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Adidas-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Adidas-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
+    
     
 </p>
