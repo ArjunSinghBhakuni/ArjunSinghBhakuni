@@ -12,7 +12,7 @@
 
 <h3>
     <i>- Skilled full stack developer and quick learner who can quickly adapt to new environments. Looking for a challenging role in the industry to utilize my skills and learn.
-Outside of coding, my interest lies in creating content on <i>-Youtube<a href = 'https://www.youtube.com/channel/UCDqe5Z2RFTudpDgJ_nizZ_Q'>Link</a> </i>.</i>
+Outside of coding, my interest lies in creating content on <i><a href = 'https://www.youtube.com/channel/UCDqe5Z2RFTudpDgJ_nizZ_Q'>Youtube</a> </i>.</i>
 </h3>
  
 <br>
