@@ -11,12 +11,10 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
-    <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
+    <i>- Skilled full stack developer and quick learner who can quickly adapt to new environments. Looking for a challenging role in the industry to utilize my skills and learn.
+Outside of coding, my interest lies in creating content on <i>-Youtube<a href = 'https://www.youtube.com/channel/UCDqe5Z2RFTudpDgJ_nizZ_Q'>Link</a> </i>.</i>
 </h3>
-
-<h3>
-    <i>- I Have a Youtube Channel <a href = 'https://www.youtube.com/channel/UCDqe5Z2RFTudpDgJ_nizZ_Q'>Link</a> </i>
-</h3>
+ 
 <br>
 
 
