@@ -1,148 +1,79 @@
-  <!----------------------------------- Heading Section ------------------------------------>
-<h1 align="center">
-    Hi
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-    I'm Arjun Singh
-    <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
-</h1>
+ ### Hi there, I'm Arjun Singh 👋  
 
+<a href="https://arjun-porfolio.vercel.app">
+  <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://ArjunSinghBhakunirohi.vercel.app" />
+</a>
+<a title="arjunbhakuni23@gmail.com" href="mailto:arjunbhakuni23@gmail.com">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="1995sirohis@gmail.com" />
+</a>
+<a href="https://www.linkedin.com/in/arjun-singh-366476194/">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/ArjunSinghBhakunirohi-ba4636136/" />
+</a>
 
+---
 
-<!----------------------------------- About Section ------------------------------------>
-
-<h3>
-    <i>- Skilled full stack developer and quick learner who can quickly adapt to new environments. Looking for a challenging role in the industry to utilize my skills and learn.
-Outside of coding, my interest lies in creating content on <i><a href = 'https://www.youtube.com/channel/UCDqe5Z2RFTudpDgJ_nizZ_Q'>Youtube</a> </i>.</i>
-</h3>
+## I'm a Software Engineer and Life Long Learner!
+- 🌱 I’m currently Learning MERN Stack at Masai School.
+- 🌏 Looking to solve real-world problems.
+- 💻 I'm passionate about making creative websites.
+- ⚡ Fact: I love to make videos on youtube.
+- 💬 Ask me about Javascript, HTML, CSS, React, Redux, Nodejs, Git, Chakra Ui, Npm
  
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+
+---
+
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{ArjunSinghBhakuni}/count.svg" alt="ArjunSinghBhakuni :: Visitor's Count" /></p>
+
+---
+
+### 👨‍💻 Languages and Tools:
+<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png"></code>
+<code><img height="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg"></code>
+<code><img height="50" src="https://github.com/mongodb-js/leaf/blob/master/dist/mongodb-leaf_32x32@2x.png?raw=true"></code>
+<code><img height="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png"></code>
+<code><img height="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/heroku.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
+<code><img height="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/FastAPI.svg"></code>
+<code><img height="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/StyledComponents.svg"></code>
+<code><img height="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MaterialUI-Dark.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/rapidapi/rapidapi-icon.svg"></code>
 <br>
 
+---
+
+### Desktop Environment:
+<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png"></code>
+
+---
 
 
-<!----------------------------------- Profile View Section ------------------------------------>
-
-<p align="left">
-    <a href="https://github.com/ArjunSinghBhakuni">
-        <img src="https://komarev.com/ghpvc/?username=ArjunSinghBhakuni&label=Profile%20views&color=0e75b6&style=flat" alt="m-sehrawat" />
-    </a>
-<!--     <a href="https://github.com/ArjunSinghBhakuni?tab=followers">
-        <img src="https://img.shields.io/github/followers/ArjunSinghBhakunit?label=Followers&style=social" alt="followers-count">
-    </a> -->
-</p>
-<br>
-
-
-
-<!----------------------------------- Tech Stack Section ------------------------------------>
-
-<h2><i>Tech Stack</i></h2>
-
-<p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
-    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-  <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
- <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
-</p>
-<br>
-
-
-
-
-
-<!----------------------------------- Project Section ------------------------------------>
-
-<!-- <h2><i>My top projects</i></h2>
-
-
-<p align="left">
-    <a href="https://github.com/m-sehrawat/Nike-Clone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nike Clone&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Nike-Clone" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Mini-Store" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mini Store&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Mini-Store" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Weather-App" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Weather App&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Weather-App" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Translation-App" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Translation App&color=840010&logo=Signal&logoColor=FFFFFF&label=" alt="Translation-App" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Facebook-Clone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook Cone&color=1a78f4&logo=facebook&logoColor=FFFFFF&label=" alt="Facebook-Clone" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Food-Store" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Food Store&color=7A1FA2&logo=foodpanda&logoColor=FFFFFF&label=" alt="Adidas-Clone" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Lybrate-Website-Clone-Version-2.0" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lybrate Clone&color=E60012&logo=stadia&logoColor=FFFFFF&label=" alt="Lybrate-Clone" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Adidas-Clone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adidas Clone&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="Adidas-Clone" />
-    </a>
-</p>
-<br> -->
-
-
-
-<!----------------------------------- Social Media Links Section ------------------------------------>
-
-<h2><i>Let's Connect</i></h2>
-
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/arjun-singh-366476194/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/m-sehrawat" />
-    </a>
-    <a href="https://twitter.com/ArjunBhakuni3">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/ArjunBhakuni3" />
-    </a>
-    <a href="#">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://arjun-porfolio.vercel.app/" />
-    </a>
-    <a title="arjunbhakuni23@gmail.com" href="arjunbhakuni23@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="arjunbhakuni23@gmail.com" />
-    </a>
-</p>
-<br>
-
-
-
-<!----------------------------------- GitHub Stats Section ------------------------------------>
-
-<!-- <h2><i>My GitHub Stats</i></h2>
-
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-sehrawat&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="m-sehrawat" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-sehrawat&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="m-sehrawat" height="139" />
-</p>
-<br> -->
- 
- 
- 
 <p display="flex" align="center">
 <img alt="Jha-Vineet69's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunSinghBhakuni&hide=smalltalk&theme=algolia&layout=compact" width="400" />
 
 
 
   <a href="https://github.com/ArjunSinghBhakuni?tab=repositories">
-    <img width="400" height="auto"  alt="Jitesh's github stats" 
+    <img width="400" height="auto"  alt="Arjun's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=ArjunSinghBhakuni&show_icons=true&theme=algolia&count_private=true" />
   </a>
   
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArjunSinghBhakuni&hide=smalltalk&theme=algolia&layout=compact" alt="ArjunSinghBhakuni" />
 </p>
 
+---
 
  
