@@ -24,11 +24,20 @@
 ---
 
 
-<h4 align="center">Visitor's count :eyes:</h4>
+ 
+<!----------------------------------- Profile View Section ------------------------------------>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{ArjunSinghBhakuni}/count.svg" alt="ArjunSinghBhakuni :: Visitor's Count" /></p>
+<p align="left">
+    <a href="https://github.com/ArjunSinghBhakuni">
+        <img src="https://komarev.com/ghpvc/?username=ArjunSinghBhakuni&label=Profile%20views&color=0e75b6&style=flat" alt="m-sehrawat" />
+    </a>
+<!--     <a href="https://github.com/ArjunSinghBhakuni?tab=followers">
+        <img src="https://img.shields.io/github/followers/ArjunSinghBhakunit?label=Followers&style=social" alt="followers-count">
+    </a> -->
+</p>
+<br></br>-
 
----
+
 
 ### 👨‍💻 Languages and Tools:
 <code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png"></code>
