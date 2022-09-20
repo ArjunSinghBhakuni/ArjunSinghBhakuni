@@ -19,7 +19,7 @@
 - ⚡ Fact: I love to make videos on youtube.
 - 💬 Ask me about Javascript, HTML, CSS, React, Redux, Nodejs, Git, Chakra Ui, Npm
  
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>i love networking with people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
 ---
 
