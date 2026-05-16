@@ -23,7 +23,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=ArjunSinghBhakuni&label=Profile+Views&color=0e75b6&style=flat" />
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20to%20Work-Remote-brightgreen?style=flat" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-Hybrid-brightgreen?style=flat" />
 &nbsp;
 <img src="https://img.shields.io/badge/Experience-3.8%20Years-blue?style=flat" />
 
